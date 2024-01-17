@@ -69,7 +69,6 @@ gsap.from(".page3h2",{
     duration:1,
     y:50,
     scrollTrigger:{
-        markers:true,
         trigger:".page3h2",
         scroller:"body",
         start:"top 70%",
